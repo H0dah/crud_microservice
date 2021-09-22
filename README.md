@@ -1,5 +1,4 @@
-Documents Control System that track papers inside the organization and papers comes from outside and track circulation history for every paper
-Attached with ERD and SQL impleminting it
+Documents Control System that tracks papers inside the organization and circulation history for every paper Attached with ERD and SQL implementing it
 
 To go to Document tracking system
  cd Document_tracking_system
